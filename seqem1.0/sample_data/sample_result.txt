@@ -1,0 +1,15 @@
+### Genotypes lexographically sorted by name, start and stop position. There are a total of 1 records ###
+genotypes: r = reference, v = variant, na = genotype not determined
+         0. 385856  iter= 24  error= 0.05329  p= 0.47001 hwe-chisq= -1.000000
+P(rr)= 0.21950 p(rv)= 0.50101 p(vv)= 0.27949
+           genotype[0]= rv props(rr,rv,vv)=  0.000  0.944  0.056    reads=     10 , variants=      7
+           genotype[1]= na 
+           genotype[2]= rv props(rr,rv,vv)=  0.000  1.000  0.000    reads=     16 , variants=      8
+           genotype[3]= rv props(rr,rv,vv)=  0.001  0.999  0.000    reads=     13 , variants=      5
+           genotype[4]= vv props(rr,rv,vv)=  0.000  0.489  0.511    reads=     10 , variants=      8
+           genotype[5]= vv props(rr,rv,vv)=  0.000  0.051  0.949    reads=     10 , variants=      9
+           genotype[6]= rr props(rr,rv,vv)=  1.000  0.000  0.000    reads=     20 , variants=      0
+           genotype[7]= rv props(rr,rv,vv)=  0.000  1.000  0.000    reads=     15 , variants=      7
+           genotype[8]= rr props(rr,rv,vv)=  0.975  0.025  0.000    reads=      7 , variants=      0
+           genotype[9]= vv props(rr,rv,vv)=  0.000  0.001  0.999    reads=     17 , variants=     16
+

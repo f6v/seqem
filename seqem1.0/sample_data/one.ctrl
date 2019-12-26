@@ -1,0 +1,19 @@
+Header_files: 10
+one_0.out
+one_1.out
+one_2.out
+one_3.out
+one_4.out
+one_5.out
+one_6.out
+one_7.out
+one_8.out
+one_9.out
+HWE: 0
+Debug: 0
+MAX_iterations: 100
+EM_threshold: 0.00000001
+Initial_error: 0.01
+Fix_error: 0
+Min_read_depth: 1
+Outfile: result.txt
