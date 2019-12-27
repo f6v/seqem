@@ -1,6 +1,6 @@
 ## SeqEM Docker
 
-SeqEM is a genotype-calling algorithm for NGS data.
+SeqEM is a genotype-calling algorithm for NGS data. This project allows running `seqem` binary locally without having to compile it from source.
 
 Please cite the original publication:
 
